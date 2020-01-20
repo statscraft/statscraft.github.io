@@ -1,0 +1,74 @@
+body, .reveal, .sponsors {
+    background-color: #fff;
+}
+.reveal {
+    background: url('images/hero-bg.png') no-repeat center bottom;
+    background-size: 100% auto;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400px;
+    font-size: 28px;
+}
+
+.reveal .slides section h2 {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.slides .sponsors {
+    text-align: center;
+}
+
+.slides .sponsors ul {
+    margin : 5px auto;
+}
+
+.slides .sponsors li img {
+  width: 90%;
+}
+.slides .sponsors li {
+  text-align: center;
+    max-width: none;
+}
+
+.slides #agenda {
+    font-size: 24px;
+}
+
+.slides #agenda .row {
+    border-top: none;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.slide-talk-time {
+    font-weight: 700 !important;
+    padding-right: 15px !important;
+}
+
+.reveal .slides-social {
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.slide-row-been {
+    opacity: 0.3;
+    padding: 3px 0px !important;
+    font-size: small !important;
+}
+
+.slide-row-coming {
+    opacity: 0.7;
+    padding: 3px 0px !important;
+    font-size: medium !important;
+}
+
+.slide-row-current {
+    opacity: 1;
+    padding: 20px 0px !important;
+    font-size: large !important;
+}
+
+.slide-logo img {
+    width: 60%;
+}
